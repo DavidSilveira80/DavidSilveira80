@@ -1,6 +1,8 @@
 ### Me chamo David Silveira 👋
 - 🐍Atualmente com os estudos voltados para desenvolvimento Web com Python e Django, mas sempre aumentando o repertório de estudos.
 - Meu lema é: "O Homem sábio é forte, e com o conhecimento o homem aumenta a sua força. Prov 24:5 Never stop learning :mortar_board:
+## Rede
+[LinkedIn](https://www.linkedin.com/in/david-daniel-silveira-619230209/)
 <!--
 **DavidSilveira80/DavidSilveira80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
