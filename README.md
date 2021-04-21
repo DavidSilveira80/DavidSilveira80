@@ -1,5 +1,5 @@
 ### Hi,I'm David Silveira 👋
-- 🐍I’m currently learning web devolopment with Python and Django
+- 🐍I’m currently learning web development with Python and Django
 <!--
 **DavidSilveira80/DavidSilveira80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
