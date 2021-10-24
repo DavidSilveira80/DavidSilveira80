@@ -4,7 +4,14 @@
 ## Rede
 [Visite meu perfil no LinkedIn(Click aqui)](https://www.linkedin.com/in/david-daniel-silveira-619230209/)
 ##
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/DavidSilveira80">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+  
+
+  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!--
 **DavidSilveira80/DavidSilveira80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
