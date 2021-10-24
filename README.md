@@ -4,7 +4,8 @@
 ## Rede
 [Visite meu perfil no LinkedIn(Click aqui)](https://www.linkedin.com/in/david-daniel-silveira-619230209/)
 ##
-![Snake animation](https://github.com/DavidSilveira80/DavidSilveira80/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
 **DavidSilveira80/DavidSilveira80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
