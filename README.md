@@ -1,18 +1,16 @@
 ### DavidSilveira80
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```Python/Java
-object **DavidSilveira80** {
- val name = "DavidSilveira80"
- val acknowledgements = "Back-end"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python") 
-
-}
+```Java/Python
+public class DavidSilveira80{
+ public String nome = "DavidSilveira80";
+ public String área = "Back-end";
+ }
+ primarySkillset = "ALGUMAS HABILIDADES"
+ linguagens = listOf("Java", "Python") 
 ```
 
 ## **Linguagens e Ferramentas:**  
