@@ -7,7 +7,7 @@
 ```Java/Python
 public class DavidSilveira80{
  public String nome = "DavidSilveira80";
- public String área = "Back-end";
+ public String area = "Back-end";
  }
  primarySkillset = "ALGUMAS HABILIDADES"
  linguagens = listOf("Java", "Python") 
