@@ -1,42 +1,42 @@
-### Me chamo David Silveira 👋
-- 🐍Atualmente com os estudos voltados para desenvolvimento Web com Python e Django, mas sempre aumentando o repertório de estudos.
-- Meu lema é: "O Homem sábio é forte, e com o conhecimento o homem aumenta a sua força." Never stop learning.
+### DavidSilveira80
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```Python/Java
+object **SEU NOME** {
+ val name = "DavidSiveira80"
+ val acknowledgements = "Back-end"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python") 
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-##
-<div align="center">
-  <a href="https://github.com/DavidSilveira80">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+## **GitHub Estatísticas**
 
-<div style="display: inline_block"><br>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  
-</div>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&theme=merko&hide_langs_below=1" />
+</a>
+
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=27" alt="**DavidSilveira80** github stats"/>
+</a>
 
 
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+[linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
+<br>
 
-## Rede
+#### Rede Sociais!
+👔 [linkedin][linkedin]
 
-<div>
-<a href="https://www.linkedin.com/in/david-daniel-silveira-619230209/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<!--
-**DavidSilveira80/DavidSilveira80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
