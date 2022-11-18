@@ -30,7 +30,7 @@ public class DavidSilveira80{
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=27" alt="**DavidSilveira80** github stats"/>
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80)](https://github.com/DavidSilveira80/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/607fe76f-bdb1-4464-b6a3-f1314e5677e9.svg)](https://wakatime.com/@607fe76f-bdb1-4464-b6a3-f1314e5677e9)
 
