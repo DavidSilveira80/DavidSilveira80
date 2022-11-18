@@ -34,12 +34,6 @@ public class DavidSilveira80{
   src="https://github.com/<DavidSilveira80>/<repository-name>/blob/<branch-name>/images/stat.svg"
   alt="Alternative Text"
 />
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-
 
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
