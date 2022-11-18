@@ -32,7 +32,7 @@ public class DavidSilveira80{
 
 
 <!--START_SECTION:waka-->
-  
+  last_7_days
 
 <!--END_SECTION:waka-->
 
