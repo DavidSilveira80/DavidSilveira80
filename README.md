@@ -36,7 +36,7 @@ public class DavidSilveira80{
 />
 Example:
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="ttps://github.com/DavidSilveira80/DavidSilveira80/"
   alt="DavidSilveira80 WakaTime Activity"
 />
 
