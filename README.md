@@ -32,9 +32,6 @@ public class DavidSilveira80{
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
