@@ -26,15 +26,17 @@ public class DavidSilveira80{
 
 ## **GitHub Estatísticas**
 
-<div>
-   <a href="https://github.com/DavidSilveira80">
-       <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&theme=merko&hide_langs_below=5"
-       <a href="https://github.com/DavidSilveira80">
-       <img heigth="180cm"  src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=merko"
-       <a href="https://github.com/DavidSilveira80">
-       <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko"            alt="**DavidSilveira80** github stats"/>
-       <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" /> 
-    </div>
+# most used lanaguages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsilveira80&show_icons=true&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+# wakaTime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=highcontrast&)](https://github.com/anuraghazra/github-readme-stats)
+
+# github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=highcontrast)
+
+# streak
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
 
 <a href="https://wakatime.com"><img height="450" width="1000" src="https://wakatime.com/share/@DavidSilveira80/2d6aeef3-7275-4e49-a4ea-df077268809d.png" /></a>
 
