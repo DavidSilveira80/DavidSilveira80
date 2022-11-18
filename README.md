@@ -32,10 +32,11 @@ public class DavidSilveira80{
        <a href="https://github.com/DavidSilveira80">
        <img heigth="180cm"  src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=merko"
        <a href="https://github.com/DavidSilveira80">
-       <img heigth="180cm"  src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=23"            alt="**DavidSilveira80** github stats"/>
-       <img heigth="180cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" /> 
+       <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko"            alt="**DavidSilveira80** github stats"/>
+       <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" /> 
     </div>
 
+<a href="https://wakatime.com"><img height="450" width="1000" src="https://wakatime.com/share/@DavidSilveira80/2d6aeef3-7275-4e49-a4ea-df077268809d.png" /></a>
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
 <br>
