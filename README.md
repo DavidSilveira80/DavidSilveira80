@@ -30,8 +30,7 @@ public class DavidSilveira80{
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=27" alt="**DavidSilveira80** github stats"/>
 </a>
 
-![ https://wakatime.com/](https://wakatime.com/share/@DavidSilveira80/bd6ec57c-7f9e-4c80-9e8e-75739a959bc9.png)
-
+![ https://wakatime.com/](https://wakatime.com/share/@DavidSilveira80/a350bb4a-4105-4eed-b4c1-a7c9e1023088.png)
 
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
