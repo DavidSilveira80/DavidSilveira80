@@ -26,19 +26,19 @@ public class DavidSilveira80{
 
 ## **GitHub Estatísticas**
 
-# most used lanaguages
+# Linguagens mais usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsilveira80&show_icons=true&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 # wakaTime
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=highcontrast&)](https://github.com/anuraghazra/github-readme-stats)
 
-# github stats
+# Estatisticas 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=highcontrast)
 
-# streak
+# Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
 
-<a href="https://wakatime.com"><img height="450" width="1000" src="https://wakatime.com/share/@DavidSilveira80/2d6aeef3-7275-4e49-a4ea-df077268809d.png" /></a>
+# Redes
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
 <br>
