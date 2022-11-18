@@ -32,11 +32,10 @@ public class DavidSilveira80{
 
 
 <!--START_SECTION:waka-->
-  last_7_days
+  
 
 <!--END_SECTION:waka-->
 
-last_7_days
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
 <br>
