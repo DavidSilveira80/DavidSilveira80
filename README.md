@@ -36,7 +36,7 @@ public class DavidSilveira80{
 
 <!--END_SECTION:waka-->
 
-
+last_7_days
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
 <br>
