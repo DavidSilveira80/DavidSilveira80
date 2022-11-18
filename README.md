@@ -30,10 +30,7 @@ public class DavidSilveira80{
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=27" alt="**DavidSilveira80** github stats"/>
 </a>
 
-<img
-  src="https://github.com/<DavidSilveira80>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
+
 
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
