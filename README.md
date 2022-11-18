@@ -12,6 +12,7 @@ public class DavidSilveira80{
  primarySkillset = "ALGUMAS HABILIDADES"
  linguagens = listOf("Java", "Python") 
 ```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsilveira80&label=Profile%20views&color=0e75b6&style=flat" alt="davidsilveira80" /> </p>
 
 
@@ -25,18 +26,16 @@ public class DavidSilveira80{
 <a href="https://github.com/Gurupreet">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&theme=merko&hide_langs_below=1" 
 </a>
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <a href="">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=23" alt="**DavidSilveira80** github stats"/>
 </a>
-<a href="">
+
+ <a href="">
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" /></a>
 
 
-
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
