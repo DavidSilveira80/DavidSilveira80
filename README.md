@@ -2,6 +2,8 @@
 
 ## Mais sobre mim
 
+![GitHub metrics](https://metrics.lecoq.io/DavidSilveira80)
+
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```Java/Python
@@ -12,6 +14,7 @@ public class DavidSilveira80{
  primarySkillset = "ALGUMAS HABILIDADES"
  linguagens = listOf("Java", "Python") 
 ```
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsilveira80&label=Profile%20views&color=0e75b6&style=flat" alt="davidsilveira80" /> </p>
 
@@ -30,7 +33,7 @@ public class DavidSilveira80{
        <img heigth="180cm"  src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=merko"
        <a href="https://github.com/DavidSilveira80">
        <img heigth="180cm"  src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=23"            alt="**DavidSilveira80** github stats"/>
-       <img heigth="180cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" />  
+       <img heigth="180cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" /> 
     </div>
 
 
