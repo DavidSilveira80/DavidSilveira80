@@ -23,24 +23,20 @@ public class DavidSilveira80{
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&theme=merko&hide_langs_below=1" 
-</a>
-
-<a href="">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=23" alt="**DavidSilveira80** github stats"/>
-</a>
-
- <a href="">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" /></a>
-
-
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+   <a href="https://github.com/DavidSilveira80">
+       <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&theme=merko&hide_langs_below=5"
+       <a href="https://github.com/DavidSilveira80">
+       <img heigth="180cm"  src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=merko"
+       <a href="https://github.com/DavidSilveira80">
+       <img heigth="180cm"  src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=merko&line_height=23"            alt="**DavidSilveira80** github stats"/>
+       <img heigth="180cm"  src="https://github-readme-streak-stats.herokuapp.com/?user=davidsilveira80&show_icons=true&theme=merko" alt="davidsilveira80" />  
+    </div>
 
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
 <br>
+
 
 #### Rede Sociais!
 <p align="left">
