@@ -42,7 +42,7 @@ public class DavidSilveira80{
 
 ## Desafios em Java
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Desafios_beecrowd_java)](https://github.com/DavidSilveira80/Dasafios_beecrowd_java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Desafios_beecrowd_java)](https://github.com/DavidSilveira80/Dasafios_beecrowd_java)<br>
 [![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Orientacao_Objetos_Java)
 # Redes
 
