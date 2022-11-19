@@ -40,9 +40,9 @@ public class DavidSilveira80{
 
 #  Estatisticas Projetos
 
-  ## POO Java
-     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Orientacao_Objetos_Java)](https://github.com/DavidSilveira80/Orientacao_Objetos_Java)[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Orientacao_Objetos_Java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Orientacao_Objetos_Java)
+## POO Java
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Orientacao_Objetos_Java)](https://github.com/DavidSilveira80/Orientacao_Objetos_Java)[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Orientacao_Objetos_Java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Orientacao_Objetos_Java)
 
 # Redes
 
