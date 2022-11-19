@@ -44,6 +44,12 @@ public class DavidSilveira80{
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Desafios_beecrowd_java)](https://github.com/DavidSilveira80/Desafios_beecrowd_java)<br>
 [![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java)
+
+## Desafios com Python aplicando TDD
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Testes-Unitarios_Python)](https://github.com/DavidSilveira80/Testes-Unitarios_Python)<br>
+[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
+
 # Redes
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
