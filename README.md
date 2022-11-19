@@ -38,19 +38,26 @@ public class DavidSilveira80{
 # Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
 
-#  Estatisticas Projetos
+#  Estatisticas de Projetos 
 
-## Desafios em Java
+<a href="https://github.com/DavidSilveira80/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Desafios_beecrowd_Java&theme=highcontrast" />
+</a>
+<a href="https://github.com/DavidSilveira80/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Testes-Unitarios_Python&theme=highcontrast"/>
+</a>
+<a href="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java">
+  <img align="left" src="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg"/>
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Desafios_beecrowd_java)](https://github.com/DavidSilveira80/Desafios_beecrowd_java)<br>
-[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java)
+<a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
+  <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
+</a>
 
-## Desafios com Python aplicando TDD
+<br />
+<br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Testes-Unitarios_Python)](https://github.com/DavidSilveira80/Testes-Unitarios_Python)<br>
-[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
 
-# Redes
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
 <br>
