@@ -38,6 +38,12 @@ public class DavidSilveira80{
 # Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
 
+#  Estatisticas Projetos
+
+  ## POO Java
+     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&show_icons=true&theme=highcontrast&repo=Orientacao_Objetos_Java)](https://github.com/DavidSilveira80/Orientacao_Objetos_Java)[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Orientacao_Objetos_Java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Orientacao_Objetos_Java)
+
+
 # Redes
 
 [linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
