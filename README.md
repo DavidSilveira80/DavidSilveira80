@@ -49,3 +49,7 @@ ___
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Testes-Unitarios_Python)](https://github.com/DavidSilveira80/Testes-Unitarios_Python)<br>
 [![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
 ___
+# Teste
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
