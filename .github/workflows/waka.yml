@@ -17,6 +17,7 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "False"
