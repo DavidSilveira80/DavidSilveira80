@@ -27,26 +27,26 @@ public class DavidSilveira80{
 ## **GitHub Estatísticas**
 
 # Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsilveira80&show_icons=true&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsilveira80&show_icons=true&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 # wakaTime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=highcontrast&)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Estatisticas 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=dark)
 
 ***
 
 # Streak
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=dark) 
 ___
 #  Estatisticas de Projetos 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=highcontrast&repo=Desafios_beecrowd_Java)](https://github.com/DavidSilveira80/Desafios_beecrowd_Java)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Desafios_beecrowd_Java)](https://github.com/DavidSilveira80/Desafios_beecrowd_Java)<br>
 [![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java)
 ___
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=highcontrast&repo=Testes-Unitarios_Python)](https://github.com/DavidSilveira80/Testes-Unitarios_Python)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Testes-Unitarios_Python)](https://github.com/DavidSilveira80/Testes-Unitarios_Python)<br>
 [![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
 ___
 
