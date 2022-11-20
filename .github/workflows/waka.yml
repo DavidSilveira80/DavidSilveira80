@@ -15,7 +15,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "True"
+          SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
