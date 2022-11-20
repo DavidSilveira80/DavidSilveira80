@@ -17,3 +17,4 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_PROFILE_VIEWS: "True"
+          SHOW_EDITORS: "True"
