@@ -19,4 +19,5 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
+          SHOW_LINES_OF_CODE: true
 
