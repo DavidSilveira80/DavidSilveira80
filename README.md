@@ -59,9 +59,15 @@ public class DavidSilveira80{
   <a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
     <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
   </a>
-
 </div>
 
+ ##
+
+<div align="center">
+  <a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
+    <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
+  </a>
+</div>
 
 
 
