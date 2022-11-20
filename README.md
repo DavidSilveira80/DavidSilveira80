@@ -39,44 +39,32 @@ public class DavidSilveira80{
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
 
 #  Estatisticas de Projetos 
-<div>
-   <p>
-      <a href="https://github.com/DavidSilveira80/github-readme-stats">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Desafios_beecrowd_Java&theme=highcontrast" />
-      </a>
-   </p>
-   <p>
-      <a href="https://github.com/DavidSilveira80/github-readme-stats">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Testes-Unitarios_Python&theme=highcontrast"/>
-      </a>
-   </p>
-   <p>
-      <a href="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java">
-        <img align="left" src="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg"/>
-      </a>
-   </p>
-   <p>
-      <a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
-        <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
-      </a>
-   </p>
+
+<div align="center">
+  <a href="https://github.com/DavidSilveira80/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Desafios_beecrowd_Java&theme=highcontrast" />
+  </a>
+   
+
+  <a href="https://github.com/DavidSilveira80/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Testes-Unitarios_Python&theme=highcontrast"/>
+  </a>
+   
+   
+  <a href="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java">
+    <img align="left" src="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg"/>
+  </a>
+   
+   
+  <a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
+    <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
+  </a>
+
 </div>
 
-<br />
-<br />
-
-
-
-  # Redes
 
 
 
 
 
-
-
-
-
-<br />
-<br />
 
