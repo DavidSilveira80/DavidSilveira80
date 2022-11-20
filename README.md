@@ -35,42 +35,18 @@ public class DavidSilveira80{
 # Estatisticas 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=highcontrast)
 
+***
+
 # Streak
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
-
+___
 #  Estatisticas de Projetos 
 
-<div align="center">
-  <a href="https://github.com/DavidSilveira80/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Desafios_beecrowd_Java&theme=highcontrast" />
-  </a>
-   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=highcontrast&repo=Desafios_beecrowd_Java)](https://github.com/DavidSilveira80/Desafios_beecrowd_Java)<br>
+[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java)
+___
 
-  <a href="https://github.com/DavidSilveira80/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Testes-Unitarios_Python&theme=highcontrast"/>
-  </a>
-   
-   
-  <a href="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java">
-    <img align="left" src="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg"/>
-  </a>
-   
-   
-  <a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
-    <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
-  </a>
-</div>
-
- ##
-
-<div align="center">
-  <a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
-    <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
-  </a>
-</div>
-
-
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=highcontrast&repo=Testes-Unitarios_Python)](https://github.com/DavidSilveira80/Testes-Unitarios_Python)<br>
+[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
+___
 
