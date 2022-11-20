@@ -16,7 +16,7 @@ public class DavidSilveira80{
 ```
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsilveira80&label=Profile%20views&color=0e75b6&style=flat" alt="davidsilveira80" /> </p>
+
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
