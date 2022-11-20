@@ -39,50 +39,38 @@ public class DavidSilveira80{
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=highcontrast) 
 
 #  Estatisticas de Projetos 
+<div>
+   <p>
+      <a href="https://github.com/DavidSilveira80/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Desafios_beecrowd_Java&theme=highcontrast" />
+      </a>
+   </p>
+   <p>
+      <a href="https://github.com/DavidSilveira80/github-readme-stats">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Testes-Unitarios_Python&theme=highcontrast"/>
+      </a>
+   </p>
+   <p>
+      <a href="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java">
+        <img align="left" src="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg"/>
+      </a>
+   </p>
+   <p>
+      <a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
+        <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
+      </a>
+   </p>
+</div>
 
-<a href="https://github.com/DavidSilveira80/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Desafios_beecrowd_Java&theme=highcontrast" />
-</a>
-<a href="https://github.com/DavidSilveira80/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Testes-Unitarios_Python&theme=highcontrast"/>
-</a>
-<a href="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java">
-  <img align="left" src="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg"/>
-</a>
-
-<a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
-  <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
-</a>
-
-<br />
-<br />
 
 
 
-[linkedin]: https://www.linkedin.com/in/david-daniel-silveira-619230209/
-<br>
 
 
-#### Rede Sociais!
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/david-daniel-silveira-619230209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/david-daniel-silveira-619230209" height="30" width="40" /></a>
-</p>
 
-# Teste
 
-<a href="https://github.com/DavidSilveira80/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Desafios_beecrowd_Java&theme=highcontrast" />
-</a>
-<a href="https://github.com/DavidSilveira80/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&repo=Testes-Unitarios_Python&theme=highcontrast"/>
-</a>
-<a href="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java">
-  <img align="left" src="https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg"/>
-</a>
 
-<a href="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python">
-  <img align="right" src="https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg"/>
-</a>
+
 
 <br />
 <br />
