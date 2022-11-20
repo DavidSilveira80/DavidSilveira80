@@ -50,6 +50,7 @@ ___
 [![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
 ___
 # Teste
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
