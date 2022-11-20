@@ -18,7 +18,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
+          SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_TIMEZONE: "True"
