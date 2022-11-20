@@ -52,17 +52,8 @@ ___
 # Teste
 
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-```text
-From: 17 November 2022 - To: 20 November 2022
-
-Total Time: 7 hrs 47 mins
-
-Markdown   5 hrs 9 mins    >>>>>>>>>>>>>>>>>--------   66.16 %
-Java       2 hrs 26 mins   >>>>>>>>-----------------   31.32 %
-Python     10 mins         >------------------------   02.34 %
-YAML       0 secs          -------------------------   00.18 %
-```
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
