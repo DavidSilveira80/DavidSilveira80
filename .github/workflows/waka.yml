@@ -21,3 +21,4 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_TIMEZONE: "True"
