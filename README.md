@@ -2,7 +2,6 @@
 
 ## Mais sobre mim
 
-![GitHub metrics](https://metrics.lecoq.io/DavidSilveira80)
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -55,6 +54,15 @@ ___
 <a href="https://wakatime.com"><img align="center"  src="https://wakatime.com/share/@DavidSilveira80/d1624df1-cb2c-4736-bd52-eb218820ed1d.png" width="500" height="500" /></a>
 
 ___
+
+# Contribuições no decorrer dos Dias
+<img src="https://activity-graph.herokuapp.com/graph?username=DavidSilveira80&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+___
+# Contribuições no decorrer dos Meses
+[![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidSilveira80&theme=vue)](https://github.com/DavidSilveira80)
+
+
 #  Estatisticas de Projetos 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Desafios_beecrowd_Java)](https://github.com/DavidSilveira80/Desafios_beecrowd_Java)<br>
