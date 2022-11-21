@@ -38,7 +38,14 @@ public class DavidSilveira80{
 ***
 
 # Streak
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=dark) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=dark)
+
+___
+
+# Tempo de atividade desde o início das métricas com o WakaTime
+
+<a href="https://wakatime.com"><img align="center"  src="https://wakatime.com/share/@DavidSilveira80/d1624df1-cb2c-4736-bd52-eb218820ed1d.png" width="500" height="500" /></a>
+
 ___
 #  Estatisticas de Projetos 
 
