@@ -50,6 +50,11 @@ ___
 [![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
 ___
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Programacao_Orientada_Objetos_Java)](https://github.com/DavidSilveira80/Programacao_Orientada_Objetos_Java)<br>
+[![wakatime](https://wakatime.com/badge/user/607fe76f-bdb1-4464-b6a3-f1314e5677e9/project/a5fa5158-333a-4763-b5c3-f91afd305bbd.svg)](https://wakatime.com/badge/user/607fe76f-bdb1-4464-b6a3-f1314e5677e9/project/a5fa5158-333a-4763-b5c3-f91afd305bbd)
+
+___
+
 # Teste
 
 <!--START_SECTION:waka-->
