@@ -48,6 +48,7 @@ ___
 <div align="center">
   <img src="https://wakatime.com/share/@DavidSilveira80/d1624df1-cb2c-4736-bd52-eb218820ed1d.png" width="600" height="400"/>
 </div>
+
 ___
 
 # Contribuições Gerais
@@ -69,25 +70,10 @@ ___
 </div>
 
 
-
 <img src="https://activity-graph.herokuapp.com/graph?username=DavidSilveira80&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ___
 
-#  Estatisticas de Projetos 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Desafios_beecrowd_Java)](https://github.com/DavidSilveira80/Desafios_beecrowd_Java)<br>
-[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java.svg)](https://wakatime.com/badge/github/DavidSilveira80/Desafios_beecrowd_java)
-___
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Testes-Unitarios_Python)](https://github.com/DavidSilveira80/Testes-Unitarios_Python)<br>
-[![wakatime](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python.svg)](https://wakatime.com/badge/github/DavidSilveira80/Testes-Unitarios_Python)
-___
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidSilveira80&show_owner=true&theme=dark&repo=Programacao_Orientada_Objetos_Java)](https://github.com/DavidSilveira80/Programacao_Orientada_Objetos_Java)<br>
-[![wakatime](https://wakatime.com/badge/user/607fe76f-bdb1-4464-b6a3-f1314e5677e9/project/a5fa5158-333a-4763-b5c3-f91afd305bbd.svg)](https://wakatime.com/badge/user/607fe76f-bdb1-4464-b6a3-f1314e5677e9/project/a5fa5158-333a-4763-b5c3-f91afd305bbd)
-
-___
 
 # Teste
 
