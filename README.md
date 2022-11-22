@@ -1,8 +1,6 @@
 ### DavidSilveira80
 
 
-___
-
 <p align="center"> <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Bem-vindo
 ;Stack:+Java+Python;POO;TDD&center=true&width=500&height=50"></a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidSilveira80&label=Profile%20views&color=0e75b6&style=flat" alt="aasadlion" /> </p>
