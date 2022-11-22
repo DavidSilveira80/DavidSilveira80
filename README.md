@@ -51,17 +51,28 @@ ___
 
 # Tempo de atividade desde o início das métricas com o WakaTime
 
-<a href="https://wakatime.com"><img align="center"  src="https://wakatime.com/share/@DavidSilveira80/d1624df1-cb2c-4736-bd52-eb218820ed1d.png" width="500" height="500" /></a>
-
+<div align="center">
+  <img src="https://wakatime.com/share/@DavidSilveira80/d1624df1-cb2c-4736-bd52-eb218820ed1d.png" width="600" height="400"/>
+</div>
 ___
 
-# Contribuições no decorrer dos Dias
+# Contribuições Gerais
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidSilveira80&theme=github_dark"/>
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidSilveira80&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidSilveira80&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidSilveira80&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DavidSilveira80&theme=github_dark&gmtOffset=1"/>
+</div>
+
+
+
 <img src="https://activity-graph.herokuapp.com/graph?username=DavidSilveira80&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ___
-# Contribuições no decorrer dos Meses
-[![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidSilveira80&theme=vue)](https://github.com/DavidSilveira80)
-
 
 #  Estatisticas de Projetos 
 
@@ -79,6 +90,7 @@ ___
 ___
 
 # Teste
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
