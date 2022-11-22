@@ -57,6 +57,7 @@ ___
 # Contribuições Gerais
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidSilveira80&theme=github_dark"/>
 </div>
 
