@@ -35,15 +35,11 @@ public class DavidSilveira80{
 
 
 # wakaTime
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# Estatisticas 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=dark)
-
-***
-
-# Streak
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DavidSilveira80&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=dark"/>
+</div>
 
 ___
 
