@@ -1,8 +1,5 @@
 ### DavidSilveira80
 
-<h1 align="center">
-  <img src="https://github.com/DavidSilveira80/David/blob/main/name.svg" alt="Marton Lederer" />
-</h1>
 
 ___
 
