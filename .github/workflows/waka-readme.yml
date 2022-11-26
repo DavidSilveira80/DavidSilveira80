@@ -1,4 +1,5 @@
 name: WakaTime
+on:
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.wakatime.svg
