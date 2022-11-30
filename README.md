@@ -54,9 +54,9 @@ ___
 
 <p align="center"> <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Contribuições+Gerais&center=true&width=500&height=50"></a></p>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=github_dark"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&show_icons=true&theme=github_dark"/> 
 </div>
 
 <div align="center">
