@@ -67,7 +67,7 @@ ___
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidSilveira80&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidSilveira80&theme=github_dark"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidSilveira80&theme=github_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DavidSilveira80&theme=github_dark&gmtOffset=1"/>
+  
 </div>
 
 
