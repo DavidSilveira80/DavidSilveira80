@@ -34,21 +34,6 @@ public class DavidSilveira80{
 <p align="center"> <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Minhas+Estatisticas&center=true&width=500&height=50"></a></p>
 
 
-# wakaTime
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&show_icons=true&theme=dark"/>
-</div>
-
-___
-
-<p align="center"> <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Atividade+com+métricas+WakaTime&center=true&width=500&height=50"></a></p>
-
-<div align="center">
-  <img src="https://wakatime.com/share/@DavidSilveira80/d1624df1-cb2c-4736-bd52-eb218820ed1d.png" width="600" height="400"/>
-</div>
-
 ___
 
 
