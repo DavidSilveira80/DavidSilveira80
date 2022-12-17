@@ -19,11 +19,6 @@ public class DavidSilveira80{
  linguagens = listOf("Java", "Python") 
 ```
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
@@ -61,7 +56,7 @@ ___
 ___
 
 
-# Teste
+
 
 
 
