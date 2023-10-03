@@ -30,7 +30,7 @@ public class DavidSilveira80{
 
 
 ___
-[Ranking no CodeWars](https://www.codewars.com/users/DavidSilveira80/badges/large)
+https://www.codewars.com/users/DavidSilveira80/badges/large
 
 
 <p align="center"> <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Contribuições+Gerais&center=true&width=500&height=50"></a></p>
