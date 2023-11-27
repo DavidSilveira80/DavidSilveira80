@@ -1,35 +1,17 @@
 
-# Olá, David Silveira! ### ⚙️ GitHub Analytics
+# Olá, me chamo David Silveira! ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=DavidSilveira80&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=DavidSilveira80&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
+<div width="100%" align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidSilveira80&theme=transparent"/>
+  <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSilveira80&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+</div>
+
+
 <br />
 
---- ### 🏆 GitHub Profile Trophy:
+--- 🏆 GitHub Profile Trophy:
 
 <p align="center">
   <a
@@ -44,10 +26,7 @@
 </p>
 
 ---
-
-
-
-
+[![Ivo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidSilveira80&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/ip681/)
 
 
 
