@@ -30,6 +30,78 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 11.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 388 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌆 Daytime                376 commits         ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌃 Evening                306 commits         ████████░░░░░░░░░░░░░░░░░   32.62 % 
+🌙 Night                  141 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   148 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Tuesday                  86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Wednesday                101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Thursday                 173 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Friday                   212 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Sunday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+Python                   8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
+
+
+ Last Updated on 28/11/2023 01:16:19 UTC
 <!--END_SECTION:waka-->
 
 ---
