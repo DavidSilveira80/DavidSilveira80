@@ -20,4 +20,3 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
-          LOCALE: "pt_BR"
