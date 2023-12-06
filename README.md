@@ -32,7 +32,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-272-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-281-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.3%20thousand%20lines%20of%20code-blue)
 
@@ -44,7 +44,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -106,7 +106,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 12:55:54 UTC
+ Last Updated on 06/12/2023 18:36:26 UTC
 <!--END_SECTION:waka-->
 
 ---
