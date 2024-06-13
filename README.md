@@ -30,7 +30,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -102,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 14:17:49 UTC
+ Last Updated on 13/06/2024 15:21:51 UTC
 <!--END_SECTION:waka-->
 
 
