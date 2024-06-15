@@ -30,15 +30,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.4 kB Used in GitHub's Storage 
- > 
-> 🏆 73 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,19 +71,21 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   1 hr 50 mins        ██████████████████████░░░   88.54 % 
-Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Kotlin                   2 hrs 21 mins       ███████████████░░░░░░░░░░   61.51 % 
+Python                   1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   34.87 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Intellijidea             1 hr 50 mins        ██████████████████████░░░   88.54 % 
-PyCharm                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Intellijidea             2 hrs 21 mins       ███████████████░░░░░░░░░░   61.51 % 
+PyCharm                  1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   38.49 % 
 
 🐱‍💻 Projects: 
-kotlin-references        1 hr 50 mins        ██████████████████████░░░   88.54 % 
-sistema-lanchonete       14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+kotlin-references        2 hrs 21 mins       ███████████████░░░░░░░░░░   61.51 % 
+Python-Conceitos         1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   32.21 % 
+sistema-lanchonete       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 18:39:32 UTC
+ Last Updated on 15/06/2024 18:37:49 UTC
 <!--END_SECTION:waka-->
 
 
