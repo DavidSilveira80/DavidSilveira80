@@ -30,9 +30,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,21 +73,20 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 10 mins       ██████████████░░░░░░░░░░░   57.12 % 
-Python                   1 hr 37 mins        ███████████░░░░░░░░░░░░░░   42.88 % 
+Python                   1 hr 37 mins        █████████████████████████   99.97 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Intellijidea             2 hrs 21 mins       ███████████████░░░░░░░░░░   59.13 % 
-PyCharm                  1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   40.87 % 
+PyCharm                  1 hr 37 mins        █████████████████████████   99.97 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-kotlin-references        2 hrs 10 mins       ██████████████░░░░░░░░░░░   57.11 % 
-sistema-bancario-python  1 hr 37 mins        ███████████░░░░░░░░░░░░░░   42.88 % 
-aprenda-kotlin-com-exempl0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+sistema-bancario-python  1 hr 37 mins        █████████████████████████   99.97 % 
+aprenda-kotlin-com-exempl0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +106,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2024 18:39:15 UTC
+ Last Updated on 06/07/2024 18:37:14 UTC
 <!--END_SECTION:waka-->
 
 
