@@ -30,19 +30,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.7 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -73,22 +71,21 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 13 mins       ███████████████████████░░   93.41 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Sqlite Database File     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   1 hr 1 min          █████████████████████░░░░   84.94 % 
+GitIgnore file           5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Sqlite Database File     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 27 mins       █████████████████████████   100.00 % 
+PyCharm                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Desafio-SQLite3db-Python-2 hrs 16 mins       ████████████████░░░░░░░░░   65.68 % 
-biblioteca_simples       1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   32.94 % 
-DavidSilveira80          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+biblioteca_simples       1 hr 8 mins         ████████████████████████░   94.05 % 
+Desafio-SQLite3db-Python-4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +105,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 18:39:52 UTC
+ Last Updated on 16/07/2024 18:39:53 UTC
 <!--END_SECTION:waka-->
 
 
