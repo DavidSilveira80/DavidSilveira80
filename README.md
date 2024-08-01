@@ -3,13 +3,15 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 64 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +46,18 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     6 hrs 27 mins       █████████████████░░░░░░░░   68.15 % 
-Kotlin                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Java Properties          39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Shell Script             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Properties               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Java                     3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+Python                   1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Kotlin                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Java Properties          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Shell Script             28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-IntelliJ IDEA            9 hrs 28 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 12 mins       ███████████████████░░░░░░   76.42 % 
+PyCharm                  1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
 
 💻 Operating System: 
-Linux                    9 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +77,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 18:40:27 UTC
+ Last Updated on 01/08/2024 18:39:58 UTC
 <!--END_SECTION:waka-->
 
 
