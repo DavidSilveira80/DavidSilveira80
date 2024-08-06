@@ -3,9 +3,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.3%20thousand%20lines%20of%20code-blue)
 
@@ -48,20 +48,20 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 44 mins        ████████████████░░░░░░░░░   64.31 % 
-Java                     47 mins             ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-GitIgnore file           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Python                   1 hr 44 mins        ███████████████████░░░░░░   76.67 % 
+Java                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+GitIgnore file           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 55 mins        ██████████████████░░░░░░░   70.65 % 
-IntelliJ IDEA            47 mins             ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+PyCharm                  1 hr 55 mins        █████████████████████░░░░   84.22 % 
+IntelliJ IDEA            21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 
 🐱‍💻 Projects: 
-Sistema-de-caixa         1 hr 55 mins        ██████████████████░░░░░░░   70.65 % 
-dio-trilha-java-basico   47 mins             ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+Sistema-de-caixa         1 hr 55 mins        █████████████████████░░░░   84.22 % 
+dio-trilha-java-basico   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 
 💻 Operating System: 
-Linux                    2 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2024 18:40:38 UTC
+ Last Updated on 06/08/2024 18:41:09 UTC
 <!--END_SECTION:waka-->
 
 
