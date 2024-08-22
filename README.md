@@ -3,7 +3,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -12,6 +12,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 12.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 69 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,16 +48,16 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 13 mins       █████████████████████████   100.00 % 
+Kotlin                   8 hrs 34 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 13 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-revisaoKotlin            4 hrs 13 mins       █████████████████████████   100.00 % 
+revisaoKotlin            8 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +77,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 18:40:52 UTC
+ Last Updated on 22/08/2024 18:40:50 UTC
 <!--END_SECTION:waka-->
 
 
