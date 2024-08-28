@@ -3,7 +3,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -13,11 +13,9 @@
 
 > 📦 12.9 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -48,17 +46,17 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   7 hrs 22 mins       █████████████████████████   99.99 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Kotlin                   4 hrs 37 mins       █████████████████████████   99.98 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 22 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-revisaoKotlin            7 hrs 22 mins       █████████████████████████   100.00 % 
+revisaoKotlin            4 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +76,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2024 18:41:08 UTC
+ Last Updated on 28/08/2024 18:40:59 UTC
 <!--END_SECTION:waka-->
 
 
