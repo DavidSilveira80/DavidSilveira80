@@ -3,15 +3,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,23 +48,23 @@ Sunday                   111 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 11 mins       ███████████████░░░░░░░░░░   61.57 % 
-Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-GitIgnore file           22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSV file                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python                   5 hrs 3 mins        ████████████████░░░░░░░░░   64.12 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+CSV file                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+GitIgnore file           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 11 mins       █████████████████████████   100.00 % 
+PyCharm                  7 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-simple-package-template  3 hrs 12 mins       ███████████████░░░░░░░░░░   61.81 % 
-aplicacao_controle_de_est1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-praticas_aplicacoes_pytho21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-praticas_python_nao_monit14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+aplicacao_controle_de_est3 hrs 55 mins       ████████████░░░░░░░░░░░░░   49.66 % 
+simple-package-template  3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.62 % 
+praticas_aplicacoes_pytho21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+praticas_python_nao_monit14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +84,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2024 18:41:56 UTC
+ Last Updated on 04/09/2024 18:40:35 UTC
 <!--END_SECTION:waka-->
 
 
