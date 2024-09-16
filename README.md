@@ -3,15 +3,17 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 76 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,22 +48,19 @@ Sunday                   111 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ████████████████░░░░░░░░░   65.20 % 
-CSV file                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-GitIgnore file           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Python                   47 mins             █████████████████████░░░░   83.69 % 
+HTML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 
 🔥 Editors: 
-PyCharm                  6 hrs 59 mins       █████████████████████████   100.00 % 
+PyCharm                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aplicacao_controle_de_est6 hrs 29 mins       ███████████████████████░░   92.64 % 
-praticas_aplicacoes_pytho21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-simple-package-template  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+wttd                     20 mins             █████████░░░░░░░░░░░░░░░░   36.02 % 
+devpro                   19 mins             █████████░░░░░░░░░░░░░░░░   34.30 % 
+aplicacao_controle_de_est16 mins             ███████░░░░░░░░░░░░░░░░░░   29.68 % 
 
 💻 Operating System: 
-Linux                    6 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +80,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 18:42:09 UTC
+ Last Updated on 16/09/2024 13:26:23 UTC
 <!--END_SECTION:waka-->
 
 
