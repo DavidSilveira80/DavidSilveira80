@@ -5,15 +5,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.6 kB Used in GitHub's Storage 
- > 
-> 🏆 76 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,7 +78,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2024 13:26:23 UTC
+ Last Updated on 16/09/2024 18:43:25 UTC
 <!--END_SECTION:waka-->
 
 
