@@ -13,8 +13,6 @@
 
 > 📦 12.6 kB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -48,14 +46,14 @@ Sunday                   111 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs               █████████████████████████   99.82 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   1 hr 25 mins        █████████████████████████   99.63 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs               █████████████████████████   100.00 % 
+PyCharm                  1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs               █████████████████████████   100.00 % 
+Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +73,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2024 18:41:04 UTC
+ Last Updated on 06/10/2024 18:40:58 UTC
 <!--END_SECTION:waka-->
 
 
