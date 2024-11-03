@@ -19,42 +19,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-🌆 Daytime                328 commits         ███████████░░░░░░░░░░░░░░   42.05 % 
-🌃 Evening                228 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌙 Night                  130 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   149 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Tuesday                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Wednesday                70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Thursday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Friday                   177 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Saturday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Sunday                   111 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -72,7 +36,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:41:03 UTC
+ Last Updated on 03/11/2024 18:41:55 UTC
 <!--END_SECTION:waka-->
 
 
