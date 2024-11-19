@@ -17,7 +17,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
+          SHOW_PROJECTS: "True"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
