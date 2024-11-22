@@ -9,6 +9,9 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.3%20thousand%20lines%20of%20code-blue)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@DavidSilveira80&theme=radical&langs_count=5&layout=compact)
+
+
 **🐱 My GitHub Data** 
 
 > 📦 10.2 kB Used in GitHub's Storage 
@@ -83,7 +86,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
  Last Updated on 22/11/2024 18:42:34 UTC
 <!--END_SECTION:waka-->
- <figure><embed src="https://wakatime.com/share/@DavidSilveira80/c87789a5-6ea7-49a9-976c-ae7cebd44e4d.svg"></embed></figure>
+
 
 
 
