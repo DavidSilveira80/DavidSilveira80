@@ -9,7 +9,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.3%20thousand%20lines%20of%20code-blue)
 
-![Wakatime](https://wakatime.com/@DavidSilveira80)
+
 
 **🐱 My GitHub Data** 
 
@@ -84,5 +84,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
  Last Updated on 21/11/2024 18:45:31 UTC
 <!--END_SECTION:waka-->
+ <figure><embed src="https://wakatime.com/share/@DavidSilveira80/c87789a5-6ea7-49a9-976c-ae7cebd44e4d.svg"></embed></figure>
+
 
 
