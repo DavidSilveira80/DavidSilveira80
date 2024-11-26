@@ -5,13 +5,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 79 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,23 +48,23 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 49 mins       ███████████████░░░░░░░░░░   59.10 % 
-Python                   1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   37.13 % 
-GitIgnore file           10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Kotlin                   2 hrs 49 mins       █████████████████░░░░░░░░   67.66 % 
+Python                   1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 55 mins       ███████████████░░░░░░░░░░   61.18 % 
-PyCharm                  1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
+IntelliJ IDEA            2 hrs 55 mins       ██████████████████░░░░░░░   70.04 % 
+PyCharm                  1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
 
 🐱‍💻 Projects: 
-praticas-kotlin-types    2 hrs 25 mins       █████████████░░░░░░░░░░░░   50.60 % 
-dez_aplicativos_faceis   1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   38.06 % 
-login_e_cadastro_de_usuar24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-com.minhapratica.kotlinty0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+praticas-kotlin-types    2 hrs 25 mins       ██████████████░░░░░░░░░░░   57.93 % 
+dez_aplicativos_faceis   1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+login_e_cadastro_de_usuar24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+com.minhapratica.kotlinty0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    4 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -81,7 +83,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 18:42:32 UTC
+ Last Updated on 26/11/2024 17:54:33 UTC
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@DavidSilveira80/8640fafc-a704-4427-94e2-79e1a637c80e.svg"></embed></figure>
