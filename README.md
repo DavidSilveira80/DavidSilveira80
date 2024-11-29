@@ -5,13 +5,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 79 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,20 +48,20 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 49 mins       ████████████████████████░   96.60 % 
-GitIgnore file           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Kotlin                   2 hrs 38 mins       ████████████████████████░   96.38 % 
+GitIgnore file           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 55 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-praticas-kotlin-types    2 hrs 25 mins       █████████████████████░░░░   82.71 % 
-login_e_cadastro_de_usuar24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-com.minhapratica.kotlinty0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+praticas-kotlin-types    2 hrs 25 mins       ██████████████████████░░░   88.20 % 
+login_e_cadastro_de_usuar13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+com.minhapratica.kotlinty0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -78,7 +80,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2024 18:45:11 UTC
+ Last Updated on 29/11/2024 18:45:11 UTC
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@DavidSilveira80/8640fafc-a704-4427-94e2-79e1a637c80e.svg"></embed></figure>
