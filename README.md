@@ -48,20 +48,16 @@ Sunday                   108 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 38 mins       ████████████████████████░   96.38 % 
-GitIgnore file           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-praticas-kotlin-types    2 hrs 25 mins       ██████████████████████░░░   88.20 % 
-login_e_cadastro_de_usuar13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-com.minhapratica.kotlinty0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -80,7 +76,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:45:11 UTC
+ Last Updated on 30/11/2024 18:43:17 UTC
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@DavidSilveira80/8640fafc-a704-4427-94e2-79e1a637c80e.svg"></embed></figure>
