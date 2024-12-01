@@ -13,8 +13,6 @@
 
 > 📦 10.2 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -76,7 +74,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DavidSilveira80/DavidSilveira80/master/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 18:43:17 UTC
+ Last Updated on 01/12/2024 18:43:53 UTC
 <!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@DavidSilveira80/8640fafc-a704-4427-94e2-79e1a637c80e.svg"></embed></figure>
